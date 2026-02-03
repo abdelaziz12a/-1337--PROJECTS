@@ -32,8 +32,8 @@ Each folder contains a detailed README explaining:
 ⚠️ Note: All projects are written in pure C, without using external libraries
 (except those explicitly allowed by the subject).
 
-## 🏅 Certification
+## 🏅C programming language certification from [www.codingame.com]
 
 ![C Language Certificate](assets/Certification.pdf)
 
-*C programming language certification.*
+
