@@ -28,3 +28,8 @@ Each folder contains a detailed README explaining:
 - C concepts used
 - What I learned
 - Technical challenges
+
+⚠️ Note: All projects are written in pure C, without using external libraries
+(except those explicitly allowed by the subject).
+
+
